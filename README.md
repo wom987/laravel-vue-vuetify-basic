@@ -1,4 +1,4 @@
-# Proyecto AFE
+# A simple laravel vue and vuetify proyect
 
 
 
